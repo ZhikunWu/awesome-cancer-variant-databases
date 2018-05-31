@@ -72,3 +72,8 @@ of genetic variation on drug response for clinicians and researchers. [web app, 
 - [CHASM](http://wiki.chasmsoftware.org/index.php/Main_Page)
 - [CanDrA](http://bioinformatics.mdanderson.org/main/CanDrA\#CanDrA) - 96 structural, evolutionary and gene features 
 
+
+## data reporter
+
+- [pcgr](https://github.com/sigven/pcgr): Personal Cancer Genome Reporter (PCGR)
+
